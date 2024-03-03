@@ -67,8 +67,8 @@ function DarkMode() {
     submitButton.classList.toggle("darkModeSubmit");
 }
 
-// Date when sale ends.
-var countDownDate = new Date("Jan 30, 2024 15:37:25").getTime();
+// Date when sale ends. Its gunna be a really long sale...
+var countDownDate = new Date("Jan 30, 2025 15:37:25").getTime();
                         
 // Update the count every 1 second
 var x = setInterval(function() {
