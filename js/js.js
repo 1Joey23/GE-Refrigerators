@@ -68,7 +68,7 @@ function DarkMode() {
 }
 
 // Date when sale ends. Its gunna be a really long sale...
-var countDownDate = new Date("Aug 30, 2024 15:37:25").getTime();
+var countDownDate = new Date("Dec 30, 2024 15:37:25").getTime();
                         
 // Update the count every 1 second
 var x = setInterval(function() {
